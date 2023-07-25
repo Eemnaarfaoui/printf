@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <string.h>
 /**
 * _printf - is a function that selects the correct function to print.
 * @format: identifier to look for.
